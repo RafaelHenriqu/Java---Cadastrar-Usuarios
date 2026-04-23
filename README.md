@@ -54,6 +54,6 @@ O programa roda em loop até o usuário escolher a opção de sair. O menu permi
 ## 📌 Observações
 * Os dados são armazenados apenas em memória (não persistem após fechar o programa).
 
-* A chave usada no HashMap é Nome_CPF, garantindo uma certa unicidade.
+* A chave usada no HashMap é Nome e CPF, garantindo uma certa unicidade.
 
 * Projeto criado para fins de aprendizado — pode ser expandido com gravação em arquivos, validações ou interface gráfica.
